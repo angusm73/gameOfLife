@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1397640629 source:c:\users\toxic\code\gameoflife\main.c
+1397648007 source:c:\users\toxic\code\gameoflife\main.c
 	<stdio.h>
 	<stdlib.h>
+	<unistd.h>
+	<time.h>
 
